@@ -1,0 +1,99 @@
+
+[
+  {
+    "Questions": "What is the capital city of Germany?",
+    "Options": ["brussels", "berlin", "rome"],
+    "answer": "berlin"
+  },
+  {
+    "Questions":"How many months do we have in the year?",
+    "Options": ["14", "10", "12"],
+    "answer": "12"
+  },
+  {
+    "Questions":"Which animal is known as the king of the jungle?",
+    "Options": ["monkey", "pumas", "lion"],
+    "answer": "lion"
+  },
+  {
+    "Questions": "Which day comes after Sunday?",
+    "Options": ["tuesday", "wednesday", "monday"],
+    "answer": "monday"
+  },
+  {
+    "Questions":"Which country in the world is considered to be the biggest?",
+    "Options": ["russia", "africa", "china"],
+    "answer": "russia"
+  },
+  {
+    "Questions":"What color is the milk of the cow?",
+    "Options": ["yellow", "white", "brown"],
+    "answer": "white"
+  },
+
+
+  {
+    "Questions":"Whose nose got longer every time he lied?",
+    "Options": ["winnie the pooh", "baloo", "pinocchio"],
+    "answer": "pinocchio"
+  },
+  {
+    "Questions":"If you freeze water, what will you get?",
+    "Options": ["rain", "ice", "butter"],
+    "answer": "ice"
+  },
+  {
+    "Questions":"What kind of fish is Nemo?",
+    "Options": ["jelly fish", "octopus", "clownfish"],
+    "answer": "clownfish"
+  },
+  {
+    "Questions":"What do caterpillars become?",
+    "Options": ["butterflies", "bee", "worn"],
+    "answer": "butterflies"
+  },
+  {
+    "Questions":"How many legs does a spider have?",
+    "Options": ["six", "eight", "ten"],
+    "answer": "eight"
+  },
+  {
+    "Questions":"What is the name of the planet where we live?",
+    "Options": ["jupiter", "earth","mars"],
+    "answer": "earth"
+  },
+
+
+
+
+  {
+    "Questions":"What has keys but can't open locks?",
+    "Options": ["a guitar", "a piano", "a saxophone"],
+    "answer": "a piano"
+  },
+  {
+    "Questions":"What gets wetter as it dries?",
+    "Options": ["napkin", "towel", "paper"],
+    "answer": "towel"
+  },
+  {
+    "Questions":"What can you catch but not throw?",
+    "Options": ["a cloud ", "a ball", "a cold"],
+    "answer": "a cold"
+  },
+  {
+    "Questions":"What has one eye but can't see?",
+    "Options": ["a needle", "a coconut", "a monster"],
+    "answer": "a needle"
+  },
+  {
+    "Questions":"What has words, but never speaks?",
+    "Options": ["a microphone", "a book", "a radio"],
+    "answer": "a book"
+  },
+  {
+    "Questions":"What is so fragile that saying its name breaks it?",
+    "Options": ["peace", "silence", "glass"],
+    "answer": "silence"
+  }
+]
